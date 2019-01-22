@@ -14,11 +14,12 @@ function navHashHistory(saveHash) {
 
 
 
-/*modify changeAppPage - adding function and what you want to add to the hash
+/*modify changeAppPage - adding function and what you want to add to the hash*/
 case 'home':
+
     /*code above*/
     navHashHistory('home');
 
     break;
     
- */
+
